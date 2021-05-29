@@ -20,3 +20,7 @@ This Application is built using swift language. App is created programmatically 
 - There is No use of Lootie Animation in this project.
 - This is built purely using animate function.
 - App is functional, free and ready to use.
+
+## Application Recording
+
+[![Launch-Screen-Animation.gif](https://i.postimg.cc/CKRStvLf/Launch-Screen-Animation.gif)](https://postimg.cc/p9Mw5Jj2)
