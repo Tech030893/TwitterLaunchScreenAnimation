@@ -3,7 +3,7 @@
 This Application is built using swift language. App is created programmatically as well as using launch screen storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
